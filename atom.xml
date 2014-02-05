@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Rodney on Rails]]></title>
+  <link href="http://RKB1923.github.io/atom.xml" rel="self"/>
+  <link href="http://RKB1923.github.io/"/>
+  <updated>2014-02-05T06:31:42-07:00</updated>
+  <id>http://RKB1923.github.io/</id>
+  <author>
+    <name><![CDATA[Rodney Bautista]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Day of Class]]></title>
+    <link href="http://RKB1923.github.io/blog/2014/02/03/first-day-of-class/"/>
+    <updated>2014-02-03T20:37:45-07:00</updated>
+    <id>http://RKB1923.github.io/blog/2014/02/03/first-day-of-class</id>
+    <content type="html"><![CDATA[<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>$ sudo make me_a_sandwich</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<figure class='code'><figcaption><span>Cat class</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">Cat</span>
+</span><span class='line'> <span class="k">def</span> <span class="nf">speak</span>
+</span><span class='line'>  <span class="s2">&quot;Meow&quot;</span>
+</span><span class='line'> <span class="k">end</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<div><script src='https://gist.github.com/8797944.js'></script>
+<noscript><pre><code>Class Dog
+ def speak
+  &quot;Bark&quot;
+ end
+end
+</code></pre></noscript></div>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>
