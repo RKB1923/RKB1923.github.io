@@ -4,7 +4,7 @@
   <title><![CDATA[Rodney Bautista]]></title>
   <link href="http://RKB1923.github.io/atom.xml" rel="self"/>
   <link href="http://RKB1923.github.io/"/>
-  <updated>2014-02-05T15:37:23-07:00</updated>
+  <updated>2014-02-05T16:39:10-07:00</updated>
   <id>http://RKB1923.github.io/</id>
   <author>
     <name><![CDATA[Rodney Bautista]]></name>
@@ -19,7 +19,7 @@
     <updated>2014-02-03T20:37:45-07:00</updated>
     <id>http://RKB1923.github.io/blog/2014/02/03/first-day-of-class</id>
     <content type="html"><![CDATA[<p>Today, I began my journey into the world of Ruby on Rails
-under the instruction of Ruby on Rails contributor Jason Noble.
+under the instruction of Ruby on Rails contributor <a href="http://contributors.rubyonrails.org/contributors/jason-noble/commits">Jason Noble</a>.
 Our first in-class task was to make this Octopress blog.
 We created our first post with embedded code.</p>
 
