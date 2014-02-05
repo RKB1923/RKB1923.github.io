@@ -4,7 +4,7 @@
   <title><![CDATA[Rodney Bautista]]></title>
   <link href="http://RKB1923.github.io/atom.xml" rel="self"/>
   <link href="http://RKB1923.github.io/"/>
-  <updated>2014-02-05T07:12:22-07:00</updated>
+  <updated>2014-02-05T07:47:04-07:00</updated>
   <id>http://RKB1923.github.io/</id>
   <author>
     <name><![CDATA[Rodney Bautista]]></name>
@@ -18,7 +18,15 @@
     <link href="http://RKB1923.github.io/blog/2014/02/03/first-day-of-class/"/>
     <updated>2014-02-03T20:37:45-07:00</updated>
     <id>http://RKB1923.github.io/blog/2014/02/03/first-day-of-class</id>
-    <content type="html"><![CDATA[<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+    <content type="html"><![CDATA[<p>Today, I began my journey into the world of Ruby on Rails
+under the instruction of Ruby on Rails contributor Jaosn Noble.
+Our first in-class task was to make this Octopress blog.
+We created our first post with embedded code.</p>
+
+<p>Here are two snippets of markdown using three backticks to use
+Github&rsquo;s formatting:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class=''><span class='line'>$ sudo make me_a_sandwich</span></code></pre></td></tr></table></div></figure>
 
 
@@ -37,7 +45,7 @@
 </span></code></pre></td></tr></table></div></figure>
 
 
-
+<p>And here is a snippet using a gist we created in class:</p>
 
 <div><script src='https://gist.github.com/8797944.js'></script>
 <noscript><pre><code>Class Dog
@@ -48,7 +56,7 @@ end
 </code></pre></noscript></div>
 
 
-
+<p>All-in-all, a very exciting start.</p>
 ]]></content>
   </entry>
   
