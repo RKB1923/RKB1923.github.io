@@ -4,7 +4,7 @@
   <title><![CDATA[Rodney Bautista]]></title>
   <link href="http://RKB1923.github.io/atom.xml" rel="self"/>
   <link href="http://RKB1923.github.io/"/>
-  <updated>2014-02-08T09:19:50-07:00</updated>
+  <updated>2014-02-08T09:28:20-07:00</updated>
   <id>http://RKB1923.github.io/</id>
   <author>
     <name><![CDATA[Rodney Bautista]]></name>
@@ -18,29 +18,23 @@
     <link href="http://RKB1923.github.io/blog/2014/02/08/command-line-basics/"/>
     <updated>2014-02-08T09:07:24-07:00</updated>
     <id>http://RKB1923.github.io/blog/2014/02/08/command-line-basics</id>
-    <content type="html"><![CDATA[<p>[1] <a href="http://www.davinciinstitute.com">http://www.davinciinstitute.com</a>
-[2] <a href="http://contributors.rubyonrails.org/contributors/jason-noble/commits">http://contributors.rubyonrails.org/contributors/jason-noble/commits</a>
-[3] <a href="http://cli.learncodethehardway.org">http://cli.learncodethehardway.org</a>
-[4] <a href="http://learncodethehardway.org">http://learncodethehardway.org</a></p>
-
-<p>Yesterday, I finally took advantage of one perk of the [DaVinci Institute][1]: 24-hour access to the
+    <content type="html"><![CDATA[<p>Yesterday, I finally took advantage of one perk of the <a href="http://www.davinciinstitute.com">DaVinci Institute</a>: 24-hour access to the
 classroom to work or study. I&rsquo;m proud to say that I studied from about 9pm to 2am the next morning
 studying command-line.</p>
 
-<p>[Jason][2] has us going through [The CLI Crash Course][3] from [Learn Code the Hard Way][4]. The domain
+<p><a href="http://contributors.rubyonrails.org/contributors/jason-noble/commits">Jason</a> has us going through <a href="http://cli.learncodethehardway.org">The CLI Crash Course</a> from <a href="http://learncodethehardway.org">Learn Code the Hard Way</a>. The domain
 definitely earns its name, as you definitely</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[First Day of Class]]></title>
+    <title type="html"><![CDATA[DaVinci Institute: First Day of Class]]></title>
     <link href="http://RKB1923.github.io/blog/2014/02/03/first-day-of-class/"/>
     <updated>2014-02-03T20:37:45-07:00</updated>
     <id>http://RKB1923.github.io/blog/2014/02/03/first-day-of-class</id>
-    <content type="html"><![CDATA[<p>Today, I began my journey into the world of Ruby on Rails
-under the instruction of Ruby on Rails contributor <a href="http://contributors.rubyonrails.org/contributors/jason-noble/commits">Jason Noble</a>.
-Our first in-class task was to make this Octopress blog.
-We created our first post with embedded code.</p>
+    <content type="html"><![CDATA[<p>Today, I began my journey into the world of Ruby on Rails under the instruction of Ruby on Rails
+contributor <a href="http://contributors.rubyonrails.org/contributors/jason-noble/commits">Jason Noble</a> at <a href="http://www.davinciinstitute.com">The DaVinci Instiute</a> in Louisville, CO. Our first in-class task
+was to make this Octopress blog. We created our first post with embedded code.</p>
 
 <p>Here are two snippets of markdown using three backticks to use
 Github&rsquo;s formatting:</p>
