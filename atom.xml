@@ -4,7 +4,7 @@
   <title><![CDATA[Rodney Bautista]]></title>
   <link href="http://RKB1923.github.io/atom.xml" rel="self"/>
   <link href="http://RKB1923.github.io/"/>
-  <updated>2014-02-08T09:28:20-07:00</updated>
+  <updated>2014-02-08T09:41:11-07:00</updated>
   <id>http://RKB1923.github.io/</id>
   <author>
     <name><![CDATA[Rodney Bautista]]></name>
@@ -23,7 +23,21 @@ classroom to work or study. I&rsquo;m proud to say that I studied from about 9pm
 studying command-line.</p>
 
 <p><a href="http://contributors.rubyonrails.org/contributors/jason-noble/commits">Jason</a> has us going through <a href="http://cli.learncodethehardway.org">The CLI Crash Course</a> from <a href="http://learncodethehardway.org">Learn Code the Hard Way</a>. The domain
-definitely earns its name, as you definitely</p>
+definitely earns its name. <a href="http://zedshaw.com/#/start">Zed A. Shaw&rsquo;s</a> only piece of advice is one he makes clear in the introduction
+of the book:</p>
+
+<p><strong>Shut up and type all of this in.</strong></p>
+
+<p>He continues with one of the main tenets of his courses on <a href="http://learncodethehardway.org">Learn Code the Hard Way</a>, which is
+that you start off with rote memorization. In time, this turns into natural recognition and understanding.</p>
+
+<p>For example, when learning the command &ldquo;mkdir,&rdquo; you will are prompted to make 20 directories in different
+hierarchies.</p>
+
+<p>Is this worth it? I would say, &ldquo;Yes!&rdquo; Having poked around in command-line with basic understanding, I
+can say that going through just the first portion of this instruction has made me a better command-line
+ninja. <a href="http://zedshaw.com/#/start">Zed A. Shaw</a> is right: Many students don&rsquo;t know how to use the basics of the command line
+and it [gets] in the way of the their learning.</p>
 ]]></content>
   </entry>
   
