@@ -4,7 +4,7 @@
   <title><![CDATA[Rodney Bautista]]></title>
   <link href="http://RKB1923.github.io/atom.xml" rel="self"/>
   <link href="http://RKB1923.github.io/"/>
-  <updated>2014-02-08T09:41:11-07:00</updated>
+  <updated>2014-02-10T16:25:37-07:00</updated>
   <id>http://RKB1923.github.io/</id>
   <author>
     <name><![CDATA[Rodney Bautista]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Git It On]]></title>
+    <link href="http://RKB1923.github.io/blog/2014/02/10/git-it-on/"/>
+    <updated>2014-02-10T15:10:09-07:00</updated>
+    <id>http://RKB1923.github.io/blog/2014/02/10/git-it-on</id>
+    <content type="html"><![CDATA[<p>In our third class, <a href="http://contributors.rubyonrails.org/contributors/jason-noble/commits">Jason Noble</a> introduced us to git and github, working directories, staging areas,
+remote repositories, masters, branches, forks, and other git goodness. For most beginners, this is where
+their heads start spinning and they think about giving up. Luckily for me, I&rsquo;ve been immersed in the lexicon
+at work and Jason is an excellent teacher.</p>
+
+<p>Essential to understanding git as a version control system is the following image:</p>
+
+<p><img class="center" src="http://RKB1923.github.io/images/git.png" title="image" alt="images"></p>
+
+<p>Traditionally, most version control systems only have the working directory and the git directory (which I will
+refer to as the master repository- the all-important customer-facing code of your app or website). When you were
+ready to permanently make the changes, you simply just pushed the changes that you made locally to the master
+repository.</p>
+
+<p>If you&rsquo;ve ever used Microsoft Word and saved a document, you were doing something similar. You had
+a master version that was previously saved and when you hit save again, you were pushing your recent changes
+into that master version.</p>
+
+<p>One of the special features of Git is a &ldquo;staging area.&rdquo; This layer sits between your working directory and the
+master repository. While working with your code, you can &ldquo;stage files&rdquo; or push code into this staging area as
+much as you want and, when you&rsquo;re satisfied, commit your code into the master repository. This provides several
+advantages:</p>
+
+<pre><code>1. You can work on several different code features in parallel.
+2. You can build up your commits any way you want and prioritize them however you want.
+3. Other people checking out the project can do so without your changes committed.
+</code></pre>
+
+<p>GitHub, along with other third-parties, are simply hosts for your master repository.</p>
+
+<p>In my next post, I&rsquo;ll cover the basics of how to stage and commit in your terminal on OSX.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Command Line Basics]]></title>
@@ -36,8 +75,10 @@ hierarchies.</p>
 
 <p>Is this worth it? I would say, &ldquo;Yes!&rdquo; Having poked around in command-line with basic understanding, I
 can say that going through just the first portion of this instruction has made me a better command-line
-ninja. <a href="http://zedshaw.com/#/start">Zed A. Shaw</a> is right: Many students don&rsquo;t know how to use the basics of the command line
-and it [gets] in the way of the their learning.</p>
+ninja.</p>
+
+<p><a href="http://zedshaw.com/#/start">Zed A. Shaw</a> is right: &ldquo;Many students don&rsquo;t know how to use the basics of the command line
+and it [gets] in the way of the their learning.&rdquo;</p>
 ]]></content>
   </entry>
   
