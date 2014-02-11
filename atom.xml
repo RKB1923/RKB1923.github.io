@@ -4,7 +4,7 @@
   <title><![CDATA[Rodney Bautista]]></title>
   <link href="http://RKB1923.github.io/atom.xml" rel="self"/>
   <link href="http://RKB1923.github.io/"/>
-  <updated>2014-02-10T19:01:50-07:00</updated>
+  <updated>2014-02-10T19:04:21-07:00</updated>
   <id>http://RKB1923.github.io/</id>
   <author>
     <name><![CDATA[Rodney Bautista]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Git It On]]></title>
+    <title type="html"><![CDATA[Git It On - Part 1]]></title>
     <link href="http://RKB1923.github.io/blog/2014/02/10/git-it-on/"/>
     <updated>2014-02-10T15:10:09-07:00</updated>
     <id>http://RKB1923.github.io/blog/2014/02/10/git-it-on</id>
@@ -34,7 +34,7 @@ repository.</p>
 
 <p>If you&rsquo;ve ever used Microsoft Word and saved a document, you were doing something similar. You had
 a master version that was previously saved and when you hit save again, you were sort of pushing your recent
-changes into that master version (though in actuality you&rsquo;re overwriting the previous version).</p>
+changes into that master version (though in actuality you were just overwriting the previous version).</p>
 
 <p>One of the special features of Git is a &ldquo;staging area.&rdquo; This layer sits between your working directory and the
 master repository. While working with your code, you can &ldquo;stage files&rdquo; or push code into this staging area as
